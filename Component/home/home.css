@@ -1,0 +1,14 @@
+.center-navbar {
+  text-align: center;
+  background-color: lightblue;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+  
+  .center-navbar .navbar {
+    display: inline-block;
+  }
+  
+  .center-navbar .container {
+    width: 100%;
+  }
